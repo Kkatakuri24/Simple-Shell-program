@@ -1,0 +1,41 @@
+# Application Name 
+
+SIMPLE SHELL PROGRAM
+Last edited: Sept 25, 2020
+
+
+## Technologies
+
+Written in C programming language.
+
+
+
+## Build and Installation
+
+Type make clean to clean previously built artefacts of the application.
+Type make to build and install the application.
+
+
+## Usage
+
+Type make run to use the application.
+The application will then simulate a simple UNIX shell.
+Type unix commands to use the application.
+For example:
+(1) Type "ls" to show the files in the current directory.
+(2) Type "ls | wc -l" to show the number of files in the current directory.
+(3) Type "wc -l < dirlist" to read the number of files in the file "dirlist".
+(4) Type "ls > dirlist" to write the data from current directory into the file named "dirlist". Ps. this will create a write only file.
+
+
+## Contributors
+
+Author: Joshua Kyi, Humayun Kabir
+
+
+## Known Bugs
+
+The application does not handle concurrent.
+Recent command will only show the last command but does not execute command.
+
+## License
