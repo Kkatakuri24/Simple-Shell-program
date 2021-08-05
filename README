@@ -39,3 +39,9 @@ The application does not handle concurrent.
 Recent command will only show the last command but does not execute command.
 
 ## License
+
+This is a free software: you can redistribute it and/or modify it under te terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of the MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+see the GUN General Public License https://www.gnu.org/licenses/ for more details.
